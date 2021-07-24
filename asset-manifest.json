@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webapp/build/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/webapp/build/static/js/main.0fbfdaa8.chunk.js",
+    "main.js.map": "/webapp/build/static/js/main.0fbfdaa8.chunk.js.map",
+    "runtime-main.js": "/webapp/build/static/js/runtime-main.15e9c062.js",
+    "runtime-main.js.map": "/webapp/build/static/js/runtime-main.15e9c062.js.map",
+    "static/js/2.bc03dd18.chunk.js": "/webapp/build/static/js/2.bc03dd18.chunk.js",
+    "static/js/2.bc03dd18.chunk.js.map": "/webapp/build/static/js/2.bc03dd18.chunk.js.map",
+    "static/js/3.c1ab0b15.chunk.js": "/webapp/build/static/js/3.c1ab0b15.chunk.js",
+    "static/js/3.c1ab0b15.chunk.js.map": "/webapp/build/static/js/3.c1ab0b15.chunk.js.map",
+    "index.html": "/webapp/build/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/webapp/build/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.bc03dd18.chunk.js.LICENSE.txt": "/webapp/build/static/js/2.bc03dd18.chunk.js.LICENSE.txt",
+    "static/media/mintbox_logo.b81e4db7.svg": "/webapp/build/static/media/mintbox_logo.b81e4db7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15e9c062.js",
+    "static/js/2.bc03dd18.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0fbfdaa8.chunk.js"
+  ]
+}
