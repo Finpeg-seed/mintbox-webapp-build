@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.488540ae.chunk.css",
-    "main.js": "/static/js/main.ff61cbbc.chunk.js",
-    "main.js.map": "/static/js/main.ff61cbbc.chunk.js.map",
+    "main.css": "/static/css/main.daf916d6.chunk.css",
+    "main.js": "/static/js/main.2d102a58.chunk.js",
+    "main.js.map": "/static/js/main.2d102a58.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3f3ae478.js",
     "runtime-main.js.map": "/static/js/runtime-main.3f3ae478.js.map",
     "static/css/2.bbfbf0d4.chunk.css": "/static/css/2.bbfbf0d4.chunk.css",
@@ -14,7 +14,7 @@
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.bbfbf0d4.chunk.css.map": "/static/css/2.bbfbf0d4.chunk.css.map",
-    "static/css/main.488540ae.chunk.css.map": "/static/css/main.488540ae.chunk.css.map",
+    "static/css/main.daf916d6.chunk.css.map": "/static/css/main.daf916d6.chunk.css.map",
     "static/js/2.bea74f1b.chunk.js.LICENSE.txt": "/static/js/2.bea74f1b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/DMSans-Regular.067ebd7e.ttf",
     "static/media/mintbox_logo.b81e4db7.svg": "/static/media/mintbox_logo.b81e4db7.svg"
@@ -23,7 +23,7 @@
     "static/js/runtime-main.3f3ae478.js",
     "static/css/2.bbfbf0d4.chunk.css",
     "static/js/2.bea74f1b.chunk.js",
-    "static/css/main.488540ae.chunk.css",
-    "static/js/main.ff61cbbc.chunk.js"
+    "static/css/main.daf916d6.chunk.css",
+    "static/js/main.2d102a58.chunk.js"
   ]
 }
