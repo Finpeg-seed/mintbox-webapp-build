@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.450e86e5.chunk.css",
-    "main.js": "/static/js/main.18fc85ca.chunk.js",
-    "main.js.map": "/static/js/main.18fc85ca.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.51a4f665.js",
-    "runtime-main.js.map": "/static/js/runtime-main.51a4f665.js.map",
+    "main.css": "/static/css/main.4af58fc8.chunk.css",
+    "main.js": "/static/js/main.fed7edb4.chunk.js",
+    "main.js.map": "/static/js/main.fed7edb4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7b7ca93.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7b7ca93.js.map",
     "static/css/2.19a1d5ae.chunk.css": "/static/css/2.19a1d5ae.chunk.css",
-    "static/js/2.ad0dc9a1.chunk.js": "/static/js/2.ad0dc9a1.chunk.js",
-    "static/js/2.ad0dc9a1.chunk.js.map": "/static/js/2.ad0dc9a1.chunk.js.map",
-    "static/js/3.5882ea51.chunk.js": "/static/js/3.5882ea51.chunk.js",
-    "static/js/3.5882ea51.chunk.js.map": "/static/js/3.5882ea51.chunk.js.map",
+    "static/js/2.15d8d56b.chunk.js": "/static/js/2.15d8d56b.chunk.js",
+    "static/js/2.15d8d56b.chunk.js.map": "/static/js/2.15d8d56b.chunk.js.map",
+    "static/js/3.7f985ba8.chunk.js": "/static/js/3.7f985ba8.chunk.js",
+    "static/js/3.7f985ba8.chunk.js.map": "/static/js/3.7f985ba8.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.19a1d5ae.chunk.css.map": "/static/css/2.19a1d5ae.chunk.css.map",
-    "static/css/main.450e86e5.chunk.css.map": "/static/css/main.450e86e5.chunk.css.map",
-    "static/js/2.ad0dc9a1.chunk.js.LICENSE.txt": "/static/js/2.ad0dc9a1.chunk.js.LICENSE.txt",
+    "static/css/main.4af58fc8.chunk.css.map": "/static/css/main.4af58fc8.chunk.css.map",
+    "static/js/2.15d8d56b.chunk.js.LICENSE.txt": "/static/js/2.15d8d56b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/DMSans-Regular.067ebd7e.ttf",
-    "static/media/mintbox_logo.18c110fd.svg": "/static/media/mintbox_logo.18c110fd.svg"
+    "static/media/mintbox_logo.18c110fd.svg": "/static/media/mintbox_logo.18c110fd.svg",
+    "static/media/minticon.488a7a0f.svg": "/static/media/minticon.488a7a0f.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.51a4f665.js",
+    "static/js/runtime-main.a7b7ca93.js",
     "static/css/2.19a1d5ae.chunk.css",
-    "static/js/2.ad0dc9a1.chunk.js",
-    "static/css/main.450e86e5.chunk.css",
-    "static/js/main.18fc85ca.chunk.js"
+    "static/js/2.15d8d56b.chunk.js",
+    "static/css/main.4af58fc8.chunk.css",
+    "static/js/main.fed7edb4.chunk.js"
   ]
 }
