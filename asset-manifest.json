@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1d2b851.chunk.css",
+    "main.css": "/static/css/main.07eada7e.chunk.css",
     "main.js": "/static/js/main.710b638e.chunk.js",
     "main.js.map": "/static/js/main.710b638e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e44e2c17.js",
@@ -12,7 +12,7 @@
     "static/js/3.21f34850.chunk.js.map": "/static/js/3.21f34850.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19a1d5ae.chunk.css.map": "/static/css/2.19a1d5ae.chunk.css.map",
-    "static/css/main.c1d2b851.chunk.css.map": "/static/css/main.c1d2b851.chunk.css.map",
+    "static/css/main.07eada7e.chunk.css.map": "/static/css/main.07eada7e.chunk.css.map",
     "static/js/2.122316b4.chunk.js.LICENSE.txt": "/static/js/2.122316b4.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/DMSans-Regular.067ebd7e.ttf",
     "static/media/mintbox_logo.18c110fd.svg": "/static/media/mintbox_logo.18c110fd.svg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.e44e2c17.js",
     "static/css/2.19a1d5ae.chunk.css",
     "static/js/2.122316b4.chunk.js",
-    "static/css/main.c1d2b851.chunk.css",
+    "static/css/main.07eada7e.chunk.css",
     "static/js/main.710b638e.chunk.js"
   ]
 }
