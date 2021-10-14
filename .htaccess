@@ -23,6 +23,7 @@ RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
      # Rewrite everything else to index.html to allow html5 state links
      RewriteRule ^ index.html [L]
  </IfModule>
+ 
 # <IfModule mod_rewrite.c>
 #   RewriteEngine On
 #   RewriteBase /blog
