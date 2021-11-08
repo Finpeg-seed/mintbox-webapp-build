@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.204b9428.chunk.css",
-    "main.js": "/static/js/main.9b8e3af5.chunk.js",
-    "main.js.map": "/static/js/main.9b8e3af5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b88a43ad.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b88a43ad.js.map",
+    "main.css": "/static/css/main.a7e4e50a.chunk.css",
+    "main.js": "/static/js/main.0eb2dda1.chunk.js",
+    "main.js.map": "/static/js/main.0eb2dda1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2789f30b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2789f30b.js.map",
     "static/css/2.dcfe60af.chunk.css": "/static/css/2.dcfe60af.chunk.css",
-    "static/js/2.e87ff11b.chunk.js": "/static/js/2.e87ff11b.chunk.js",
-    "static/js/2.e87ff11b.chunk.js.map": "/static/js/2.e87ff11b.chunk.js.map",
-    "static/js/3.a93cb49c.chunk.js": "/static/js/3.a93cb49c.chunk.js",
-    "static/js/3.a93cb49c.chunk.js.map": "/static/js/3.a93cb49c.chunk.js.map",
+    "static/js/2.9aa99057.chunk.js": "/static/js/2.9aa99057.chunk.js",
+    "static/js/2.9aa99057.chunk.js.map": "/static/js/2.9aa99057.chunk.js.map",
+    "static/js/3.60ad3bf4.chunk.js": "/static/js/3.60ad3bf4.chunk.js",
+    "static/js/3.60ad3bf4.chunk.js.map": "/static/js/3.60ad3bf4.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.dcfe60af.chunk.css.map": "/static/css/2.dcfe60af.chunk.css.map",
-    "static/css/main.204b9428.chunk.css.map": "/static/css/main.204b9428.chunk.css.map",
-    "static/js/2.e87ff11b.chunk.js.LICENSE.txt": "/static/js/2.e87ff11b.chunk.js.LICENSE.txt",
+    "static/css/main.a7e4e50a.chunk.css.map": "/static/css/main.a7e4e50a.chunk.css.map",
+    "static/js/2.9aa99057.chunk.js.LICENSE.txt": "/static/js/2.9aa99057.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/DMSans-Regular.067ebd7e.ttf",
     "static/media/analysis-pana.80855d8a.svg": "/static/media/analysis-pana.80855d8a.svg",
     "static/media/analytics-amico.c1dfc6fc.svg": "/static/media/analytics-amico.c1dfc6fc.svg",
@@ -34,10 +34,10 @@
     "static/media/sunbed.2ee920c4.svg": "/static/media/sunbed.2ee920c4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b88a43ad.js",
+    "static/js/runtime-main.2789f30b.js",
     "static/css/2.dcfe60af.chunk.css",
-    "static/js/2.e87ff11b.chunk.js",
-    "static/css/main.204b9428.chunk.css",
-    "static/js/main.9b8e3af5.chunk.js"
+    "static/js/2.9aa99057.chunk.js",
+    "static/css/main.a7e4e50a.chunk.css",
+    "static/js/main.0eb2dda1.chunk.js"
   ]
 }
