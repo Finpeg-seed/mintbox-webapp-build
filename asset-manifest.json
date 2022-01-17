@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.b01a7e61.chunk.css",
-    "main.js": "/static/js/main.e2230adb.chunk.js",
-    "main.js.map": "/static/js/main.e2230adb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.93c681b8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.93c681b8.js.map",
+    "main.js": "/static/js/main.32b0be69.chunk.js",
+    "main.js.map": "/static/js/main.32b0be69.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f2d606e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f2d606e7.js.map",
     "static/css/2.dcfe60af.chunk.css": "/static/css/2.dcfe60af.chunk.css",
-    "static/js/2.c5dd572b.chunk.js": "/static/js/2.c5dd572b.chunk.js",
-    "static/js/2.c5dd572b.chunk.js.map": "/static/js/2.c5dd572b.chunk.js.map",
-    "static/js/3.007188d2.chunk.js": "/static/js/3.007188d2.chunk.js",
-    "static/js/3.007188d2.chunk.js.map": "/static/js/3.007188d2.chunk.js.map",
+    "static/js/2.f6f04674.chunk.js": "/static/js/2.f6f04674.chunk.js",
+    "static/js/2.f6f04674.chunk.js.map": "/static/js/2.f6f04674.chunk.js.map",
+    "static/js/3.ecd14b84.chunk.js": "/static/js/3.ecd14b84.chunk.js",
+    "static/js/3.ecd14b84.chunk.js.map": "/static/js/3.ecd14b84.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.dcfe60af.chunk.css.map": "/static/css/2.dcfe60af.chunk.css.map",
     "static/css/main.b01a7e61.chunk.css.map": "/static/css/main.b01a7e61.chunk.css.map",
-    "static/js/2.c5dd572b.chunk.js.LICENSE.txt": "/static/js/2.c5dd572b.chunk.js.LICENSE.txt",
+    "static/js/2.f6f04674.chunk.js.LICENSE.txt": "/static/js/2.f6f04674.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/rupee-symbol.541a5182.svg",
     "static/media/activate-direct-mf.f6411195.svg": "/static/media/activate-direct-mf.f6411195.svg",
     "static/media/analysis-pana.80855d8a.svg": "/static/media/analysis-pana.80855d8a.svg",
@@ -40,10 +40,10 @@
     "static/media/sunbed.2ee920c4.svg": "/static/media/sunbed.2ee920c4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.93c681b8.js",
+    "static/js/runtime-main.f2d606e7.js",
     "static/css/2.dcfe60af.chunk.css",
-    "static/js/2.c5dd572b.chunk.js",
+    "static/js/2.f6f04674.chunk.js",
     "static/css/main.b01a7e61.chunk.css",
-    "static/js/main.e2230adb.chunk.js"
+    "static/js/main.32b0be69.chunk.js"
   ]
 }
