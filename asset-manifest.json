@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3beef8c.chunk.css",
-    "main.js": "/static/js/main.d8c70440.chunk.js",
-    "main.js.map": "/static/js/main.d8c70440.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6f7d933d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6f7d933d.js.map",
+    "main.css": "/static/css/main.757a0517.chunk.css",
+    "main.js": "/static/js/main.5fffdbba.chunk.js",
+    "main.js.map": "/static/js/main.5fffdbba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0fca65ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0fca65ee.js.map",
     "static/css/2.dcfe60af.chunk.css": "/static/css/2.dcfe60af.chunk.css",
-    "static/js/2.901c06eb.chunk.js": "/static/js/2.901c06eb.chunk.js",
-    "static/js/2.901c06eb.chunk.js.map": "/static/js/2.901c06eb.chunk.js.map",
-    "static/js/3.4417b0dc.chunk.js": "/static/js/3.4417b0dc.chunk.js",
-    "static/js/3.4417b0dc.chunk.js.map": "/static/js/3.4417b0dc.chunk.js.map",
+    "static/js/2.a0332ce5.chunk.js": "/static/js/2.a0332ce5.chunk.js",
+    "static/js/2.a0332ce5.chunk.js.map": "/static/js/2.a0332ce5.chunk.js.map",
+    "static/js/3.0da9c155.chunk.js": "/static/js/3.0da9c155.chunk.js",
+    "static/js/3.0da9c155.chunk.js.map": "/static/js/3.0da9c155.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.dcfe60af.chunk.css.map": "/static/css/2.dcfe60af.chunk.css.map",
-    "static/css/main.b3beef8c.chunk.css.map": "/static/css/main.b3beef8c.chunk.css.map",
-    "static/js/2.901c06eb.chunk.js.LICENSE.txt": "/static/js/2.901c06eb.chunk.js.LICENSE.txt",
+    "static/css/main.757a0517.chunk.css.map": "/static/css/main.757a0517.chunk.css.map",
+    "static/js/2.a0332ce5.chunk.js.LICENSE.txt": "/static/js/2.a0332ce5.chunk.js.LICENSE.txt",
     "static/media/activate-direct-mf.f6411195.svg": "/static/media/activate-direct-mf.f6411195.svg",
     "static/media/analysis-pana.80855d8a.svg": "/static/media/analysis-pana.80855d8a.svg",
     "static/media/analytics-amico.c1dfc6fc.svg": "/static/media/analytics-amico.c1dfc6fc.svg",
@@ -61,10 +61,10 @@
     "static/media/wealth_creators_2.63959478.svg": "/static/media/wealth_creators_2.63959478.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f7d933d.js",
+    "static/js/runtime-main.0fca65ee.js",
     "static/css/2.dcfe60af.chunk.css",
-    "static/js/2.901c06eb.chunk.js",
-    "static/css/main.b3beef8c.chunk.css",
-    "static/js/main.d8c70440.chunk.js"
+    "static/js/2.a0332ce5.chunk.js",
+    "static/css/main.757a0517.chunk.css",
+    "static/js/main.5fffdbba.chunk.js"
   ]
 }
