@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a811e52.chunk.css",
-    "main.js": "/static/js/main.2320e56f.chunk.js",
-    "main.js.map": "/static/js/main.2320e56f.chunk.js.map",
+    "main.css": "/static/css/main.7c1aca42.chunk.css",
+    "main.js": "/static/js/main.28082340.chunk.js",
+    "main.js.map": "/static/js/main.28082340.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6f7d933d.js",
     "runtime-main.js.map": "/static/js/runtime-main.6f7d933d.js.map",
     "static/css/2.dcfe60af.chunk.css": "/static/css/2.dcfe60af.chunk.css",
-    "static/js/2.2a1cfd02.chunk.js": "/static/js/2.2a1cfd02.chunk.js",
-    "static/js/2.2a1cfd02.chunk.js.map": "/static/js/2.2a1cfd02.chunk.js.map",
+    "static/js/2.9f3a4e04.chunk.js": "/static/js/2.9f3a4e04.chunk.js",
+    "static/js/2.9f3a4e04.chunk.js.map": "/static/js/2.9f3a4e04.chunk.js.map",
     "static/js/3.4417b0dc.chunk.js": "/static/js/3.4417b0dc.chunk.js",
     "static/js/3.4417b0dc.chunk.js.map": "/static/js/3.4417b0dc.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.dcfe60af.chunk.css.map": "/static/css/2.dcfe60af.chunk.css.map",
-    "static/css/main.0a811e52.chunk.css.map": "/static/css/main.0a811e52.chunk.css.map",
-    "static/js/2.2a1cfd02.chunk.js.LICENSE.txt": "/static/js/2.2a1cfd02.chunk.js.LICENSE.txt",
+    "static/css/main.7c1aca42.chunk.css.map": "/static/css/main.7c1aca42.chunk.css.map",
+    "static/js/2.9f3a4e04.chunk.js.LICENSE.txt": "/static/js/2.9f3a4e04.chunk.js.LICENSE.txt",
     "static/media/activate-direct-mf.f6411195.svg": "/static/media/activate-direct-mf.f6411195.svg",
     "static/media/analysis-pana.80855d8a.svg": "/static/media/analysis-pana.80855d8a.svg",
     "static/media/analytics-amico.c1dfc6fc.svg": "/static/media/analytics-amico.c1dfc6fc.svg",
@@ -27,6 +27,7 @@
     "static/media/giftbox.64bf7255.svg": "/static/media/giftbox.64bf7255.svg",
     "static/media/goal_planners.08af07fd.svg": "/static/media/goal_planners.08af07fd.svg",
     "static/media/goal_planners_2.4917faf5.svg": "/static/media/goal_planners_2.4917faf5.svg",
+    "static/media/homepage.fbc0d159.svg": "/static/media/homepage.fbc0d159.svg",
     "static/media/investment.99a7b8c4.svg": "/static/media/investment.99a7b8c4.svg",
     "static/media/magistrate.26c316b9.svg": "/static/media/magistrate.26c316b9.svg",
     "static/media/mainlogolight.adb9aa29.svg": "/static/media/mainlogolight.adb9aa29.svg",
@@ -63,8 +64,8 @@
   "entrypoints": [
     "static/js/runtime-main.6f7d933d.js",
     "static/css/2.dcfe60af.chunk.css",
-    "static/js/2.2a1cfd02.chunk.js",
-    "static/css/main.0a811e52.chunk.css",
-    "static/js/main.2320e56f.chunk.js"
+    "static/js/2.9f3a4e04.chunk.js",
+    "static/css/main.7c1aca42.chunk.css",
+    "static/js/main.28082340.chunk.js"
   ]
 }
