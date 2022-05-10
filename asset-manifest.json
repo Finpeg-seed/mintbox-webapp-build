@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.42cfbba0.chunk.css",
-    "main.js": "/static/js/main.bd693b8c.chunk.js",
-    "main.js.map": "/static/js/main.bd693b8c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.01a7fa02.js",
-    "runtime-main.js.map": "/static/js/runtime-main.01a7fa02.js.map",
+    "main.css": "/static/css/main.faa1bdfd.chunk.css",
+    "main.js": "/static/js/main.0cfd6b5e.chunk.js",
+    "main.js.map": "/static/js/main.0cfd6b5e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd8db8c7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd8db8c7.js.map",
     "static/css/2.dcfe60af.chunk.css": "/static/css/2.dcfe60af.chunk.css",
-    "static/js/2.e1957eec.chunk.js": "/static/js/2.e1957eec.chunk.js",
-    "static/js/2.e1957eec.chunk.js.map": "/static/js/2.e1957eec.chunk.js.map",
-    "static/js/3.b7d1e83f.chunk.js": "/static/js/3.b7d1e83f.chunk.js",
-    "static/js/3.b7d1e83f.chunk.js.map": "/static/js/3.b7d1e83f.chunk.js.map",
+    "static/js/2.b94daa9c.chunk.js": "/static/js/2.b94daa9c.chunk.js",
+    "static/js/2.b94daa9c.chunk.js.map": "/static/js/2.b94daa9c.chunk.js.map",
+    "static/js/3.604d28c3.chunk.js": "/static/js/3.604d28c3.chunk.js",
+    "static/js/3.604d28c3.chunk.js.map": "/static/js/3.604d28c3.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.dcfe60af.chunk.css.map": "/static/css/2.dcfe60af.chunk.css.map",
-    "static/css/main.42cfbba0.chunk.css.map": "/static/css/main.42cfbba0.chunk.css.map",
-    "static/js/2.e1957eec.chunk.js.LICENSE.txt": "/static/js/2.e1957eec.chunk.js.LICENSE.txt",
+    "static/css/main.faa1bdfd.chunk.css.map": "/static/css/main.faa1bdfd.chunk.css.map",
+    "static/js/2.b94daa9c.chunk.js.LICENSE.txt": "/static/js/2.b94daa9c.chunk.js.LICENSE.txt",
     "static/media/activate-direct-mf.f6411195.svg": "/static/media/activate-direct-mf.f6411195.svg",
     "static/media/analysis-pana.80855d8a.svg": "/static/media/analysis-pana.80855d8a.svg",
     "static/media/analytics-amico.c1dfc6fc.svg": "/static/media/analytics-amico.c1dfc6fc.svg",
@@ -24,6 +24,7 @@
     "static/media/cloud.30270efa.svg": "/static/media/cloud.30270efa.svg",
     "static/media/etf.1d9f9d60.svg": "/static/media/etf.1d9f9d60.svg",
     "static/media/fp.12d039c0.gif": "/static/media/fp.12d039c0.gif",
+    "static/media/fvv.8a910908.gif": "/static/media/fvv.8a910908.gif",
     "static/media/gift-tree-iceman.5af8da36.svg": "/static/media/gift-tree-iceman.5af8da36.svg",
     "static/media/giftbox.64bf7255.svg": "/static/media/giftbox.64bf7255.svg",
     "static/media/goal_planners.08af07fd.svg": "/static/media/goal_planners.08af07fd.svg",
@@ -42,6 +43,7 @@
     "static/media/mintboxWCircle.f5635313.svg": "/static/media/mintboxWCircle.f5635313.svg",
     "static/media/mintbox_color_logo.1b8396de.svg": "/static/media/mintbox_color_logo.1b8396de.svg",
     "static/media/mintbox_logo.18c110fd.svg": "/static/media/mintbox_logo.18c110fd.svg",
+    "static/media/mintbox_logo_png.png": "/static/media/mintbox_logo_png.45cb0932.png",
     "static/media/mintboxblack.1a0ce122.svg": "/static/media/mintboxblack.1a0ce122.svg",
     "static/media/mintboxwobg.bec671ed.svg": "/static/media/mintboxwobg.bec671ed.svg",
     "static/media/minticon.488a7a0f.svg": "/static/media/minticon.488a7a0f.svg",
@@ -63,10 +65,10 @@
     "static/media/wealth_creators_2.63959478.svg": "/static/media/wealth_creators_2.63959478.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.01a7fa02.js",
+    "static/js/runtime-main.cd8db8c7.js",
     "static/css/2.dcfe60af.chunk.css",
-    "static/js/2.e1957eec.chunk.js",
-    "static/css/main.42cfbba0.chunk.css",
-    "static/js/main.bd693b8c.chunk.js"
+    "static/js/2.b94daa9c.chunk.js",
+    "static/css/main.faa1bdfd.chunk.css",
+    "static/js/main.0cfd6b5e.chunk.js"
   ]
 }
