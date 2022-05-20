@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3dd7b546.chunk.css",
-    "main.js": "/static/js/main.a72949ac.chunk.js",
-    "main.js.map": "/static/js/main.a72949ac.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.07bc154d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.07bc154d.js.map",
+    "main.css": "/static/css/main.1f6a18ea.chunk.css",
+    "main.js": "/static/js/main.7ee518aa.chunk.js",
+    "main.js.map": "/static/js/main.7ee518aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6bce5397.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6bce5397.js.map",
     "static/css/2.dcfe60af.chunk.css": "/static/css/2.dcfe60af.chunk.css",
-    "static/js/2.551691be.chunk.js": "/static/js/2.551691be.chunk.js",
-    "static/js/2.551691be.chunk.js.map": "/static/js/2.551691be.chunk.js.map",
-    "static/js/3.123c16d1.chunk.js": "/static/js/3.123c16d1.chunk.js",
-    "static/js/3.123c16d1.chunk.js.map": "/static/js/3.123c16d1.chunk.js.map",
+    "static/js/2.c32fe44c.chunk.js": "/static/js/2.c32fe44c.chunk.js",
+    "static/js/2.c32fe44c.chunk.js.map": "/static/js/2.c32fe44c.chunk.js.map",
+    "static/js/3.f7a1ea23.chunk.js": "/static/js/3.f7a1ea23.chunk.js",
+    "static/js/3.f7a1ea23.chunk.js.map": "/static/js/3.f7a1ea23.chunk.js.map",
     "index.html": "/index.html",
     "service-worker.js": "/service-worker.js",
     "service-worker.js.map": "/service-worker.js.map",
     "static/css/2.dcfe60af.chunk.css.map": "/static/css/2.dcfe60af.chunk.css.map",
-    "static/css/main.3dd7b546.chunk.css.map": "/static/css/main.3dd7b546.chunk.css.map",
-    "static/js/2.551691be.chunk.js.LICENSE.txt": "/static/js/2.551691be.chunk.js.LICENSE.txt",
+    "static/css/main.1f6a18ea.chunk.css.map": "/static/css/main.1f6a18ea.chunk.css.map",
+    "static/js/2.c32fe44c.chunk.js.LICENSE.txt": "/static/js/2.c32fe44c.chunk.js.LICENSE.txt",
     "static/media/activate-direct-mf.f6411195.svg": "/static/media/activate-direct-mf.f6411195.svg",
     "static/media/analysis-pana.80855d8a.svg": "/static/media/analysis-pana.80855d8a.svg",
     "static/media/analytics-amico.c1dfc6fc.svg": "/static/media/analytics-amico.c1dfc6fc.svg",
@@ -31,6 +31,8 @@
     "static/media/goal_planners.08af07fd.svg": "/static/media/goal_planners.08af07fd.svg",
     "static/media/goal_planners_2.4917faf5.svg": "/static/media/goal_planners_2.4917faf5.svg",
     "static/media/homepage.fbc0d159.svg": "/static/media/homepage.fbc0d159.svg",
+    "static/media/invest_etf.bfc5bfcd.svg": "/static/media/invest_etf.bfc5bfcd.svg",
+    "static/media/invest_mf.034e14b6.svg": "/static/media/invest_mf.034e14b6.svg",
     "static/media/investment.99a7b8c4.svg": "/static/media/investment.99a7b8c4.svg",
     "static/media/magistrate.26c316b9.svg": "/static/media/magistrate.26c316b9.svg",
     "static/media/mainlogolight.adb9aa29.svg": "/static/media/mainlogolight.adb9aa29.svg",
@@ -66,10 +68,10 @@
     "static/media/wealth_creators_2.63959478.svg": "/static/media/wealth_creators_2.63959478.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.07bc154d.js",
+    "static/js/runtime-main.6bce5397.js",
     "static/css/2.dcfe60af.chunk.css",
-    "static/js/2.551691be.chunk.js",
-    "static/css/main.3dd7b546.chunk.css",
-    "static/js/main.a72949ac.chunk.js"
+    "static/js/2.c32fe44c.chunk.js",
+    "static/css/main.1f6a18ea.chunk.css",
+    "static/js/main.7ee518aa.chunk.js"
   ]
 }
