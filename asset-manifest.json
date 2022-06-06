@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2ea9faa2.chunk.css",
-    "main.js": "/static/js/main.339d309a.chunk.js",
-    "main.js.map": "/static/js/main.339d309a.chunk.js.map",
+    "main.js": "/static/js/main.665d6913.chunk.js",
+    "main.js.map": "/static/js/main.665d6913.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.392c4cc6.js",
     "runtime-main.js.map": "/static/js/runtime-main.392c4cc6.js.map",
     "static/css/2.9f0b74ee.chunk.css": "/static/css/2.9f0b74ee.chunk.css",
@@ -42,16 +42,16 @@
     "static/media/man-on-top.98d43749.svg": "/static/media/man-on-top.98d43749.svg",
     "static/media/man-with-calculator.50234b13.svg": "/static/media/man-with-calculator.50234b13.svg",
     "static/media/man-with-ladder.59cc9cc0.svg": "/static/media/man-with-ladder.59cc9cc0.svg",
-    "static/media/masterclass-1.67f8ad0e.svg": "/static/media/masterclass-1.67f8ad0e.svg",
-    "static/media/masterclass-10.bb7bc21a.svg": "/static/media/masterclass-10.bb7bc21a.svg",
-    "static/media/masterclass-2.0e382e7a.svg": "/static/media/masterclass-2.0e382e7a.svg",
-    "static/media/masterclass-3.ab6fb27d.svg": "/static/media/masterclass-3.ab6fb27d.svg",
-    "static/media/masterclass-4.a8f1f803.svg": "/static/media/masterclass-4.a8f1f803.svg",
-    "static/media/masterclass-5.b21e4c02.svg": "/static/media/masterclass-5.b21e4c02.svg",
-    "static/media/masterclass-6.77235925.svg": "/static/media/masterclass-6.77235925.svg",
-    "static/media/masterclass-7.d67d8ac2.svg": "/static/media/masterclass-7.d67d8ac2.svg",
-    "static/media/masterclass-8.d20679dd.svg": "/static/media/masterclass-8.d20679dd.svg",
-    "static/media/masterclass-9.dc766842.svg": "/static/media/masterclass-9.dc766842.svg",
+    "static/media/masterclass-1.d67d8ac2.svg": "/static/media/masterclass-1.d67d8ac2.svg",
+    "static/media/masterclass-10.77235925.svg": "/static/media/masterclass-10.77235925.svg",
+    "static/media/masterclass-2.d20679dd.svg": "/static/media/masterclass-2.d20679dd.svg",
+    "static/media/masterclass-3.67f8ad0e.svg": "/static/media/masterclass-3.67f8ad0e.svg",
+    "static/media/masterclass-4.0e382e7a.svg": "/static/media/masterclass-4.0e382e7a.svg",
+    "static/media/masterclass-5.ab6fb27d.svg": "/static/media/masterclass-5.ab6fb27d.svg",
+    "static/media/masterclass-6.a8f1f803.svg": "/static/media/masterclass-6.a8f1f803.svg",
+    "static/media/masterclass-7.dc766842.svg": "/static/media/masterclass-7.dc766842.svg",
+    "static/media/masterclass-8.bb7bc21a.svg": "/static/media/masterclass-8.bb7bc21a.svg",
+    "static/media/masterclass-9.b21e4c02.svg": "/static/media/masterclass-9.b21e4c02.svg",
     "static/media/mf.eba6cf0d.svg": "/static/media/mf.eba6cf0d.svg",
     "static/media/mintbox-cube.8fa35ec1.svg": "/static/media/mintbox-cube.8fa35ec1.svg",
     "static/media/mintboxWCircle.f5635313.svg": "/static/media/mintboxWCircle.f5635313.svg",
@@ -85,6 +85,6 @@
     "static/css/2.9f0b74ee.chunk.css",
     "static/js/2.9148dca3.chunk.js",
     "static/css/main.2ea9faa2.chunk.css",
-    "static/js/main.339d309a.chunk.js"
+    "static/js/main.665d6913.chunk.js"
   ]
 }
