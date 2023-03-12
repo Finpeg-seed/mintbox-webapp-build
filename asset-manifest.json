@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.585035d6.css",
-    "main.js": "/static/js/main.2debfc58.js",
+    "main.css": "/static/css/main.5c4134c7.css",
+    "main.js": "/static/js/main.9acb5772.js",
     "static/js/787.1a12ad17.chunk.js": "/static/js/787.1a12ad17.chunk.js",
     "static/media/uicons-regular-rounded-BG3GDTFR.eot": "/static/media/uicons-regular-rounded-BG3GDTFR.2a361185de096a6e3e99.eot",
     "static/media/uicons-bold-rounded-ZDARGU7R.eot": "/static/media/uicons-bold-rounded-ZDARGU7R.ac2c608bf183bb6b3390.eot",
@@ -10,7 +10,6 @@
     "static/media/uicons-bold-straight-23IB3KLR.eot": "/static/media/uicons-bold-straight-23IB3KLR.298e9331d96179b90f37.eot",
     "static/media/uicons-solid-straight-WGHULFPL.eot": "/static/media/uicons-solid-straight-WGHULFPL.eacd4ea838f1175de666.eot",
     "static/media/newscreener.svg": "/static/media/newscreener.3b11186ed5e4caed8e27975a9f884828.svg",
-    "static/media/portfolio.svg": "/static/media/portfolio.f023b1603074f776ce3b78c01ecf9aa3.svg",
     "static/media/uicons-regular-rounded-ATYWIXGY.woff": "/static/media/uicons-regular-rounded-ATYWIXGY.c0099907ce57cbf0aef9.woff",
     "static/media/uicons-bold-rounded-QX2IC5IQ.woff": "/static/media/uicons-bold-rounded-QX2IC5IQ.4dd4c631024d4d6436d0.woff",
     "static/media/uicons-solid-rounded-AWPFWVW5.woff": "/static/media/uicons-solid-rounded-AWPFWVW5.2621ec712bf05b5fc9e6.woff",
@@ -21,13 +20,10 @@
     "static/media/uicons-bold-straight-MAKDQRMI.woff": "/static/media/uicons-bold-straight-MAKDQRMI.cafb87f71d0eb3b9240f.woff",
     "static/media/uicons-solid-rounded-WBSH5E5L.woff2": "/static/media/uicons-solid-rounded-WBSH5E5L.653859786d3f3c0c5383.woff2",
     "static/media/uicons-solid-straight-IZQLN5ZC.woff": "/static/media/uicons-solid-straight-IZQLN5ZC.72196561b9ec276f7f74.woff",
-    "static/media/screener.svg": "/static/media/screener.c637643b95974b391089da3450dc437f.svg",
     "static/media/uicons-regular-straight-3S4NR4TJ.woff2": "/static/media/uicons-regular-straight-3S4NR4TJ.09433718fffb67e30dd5.woff2",
     "static/media/uicons-bold-straight-JADQG6K6.woff2": "/static/media/uicons-bold-straight-JADQG6K6.2226af6ba42c5c6a1600.woff2",
     "static/media/uicons-solid-straight-U6MSERDQ.woff2": "/static/media/uicons-solid-straight-U6MSERDQ.ad5e6573715d0da0f85a.woff2",
-    "static/media/watchlist.svg": "/static/media/watchlist.cc9bcf96ee0822f08c18cda1f68dd741.svg",
     "static/media/uicons-brands-3CXSFMBS.eot": "/static/media/uicons-brands-3CXSFMBS.de82ac98f63ddbc503f6.eot",
-    "static/media/buildportfolio.svg": "/static/media/buildportfolio.5cabc1e0e1e116c8fa1de03163767d24.svg",
     "static/media/compare.svg": "/static/media/compare.5c52fffbf09bed07325625bcef62263c.svg",
     "static/media/uicons-brands-VHW43T2X.woff": "/static/media/uicons-brands-VHW43T2X.6ba8d1c0fc6203880746.woff",
     "static/media/uicons-brands-QJAQFSP2.woff2": "/static/media/uicons-brands-QJAQFSP2.5f6b6a7ae0003bd6fe89.woff2",
@@ -47,12 +43,12 @@
     "index.html": "/index.html",
     "static/media/turnAround.svg": "/static/media/turnAround.554d1278bccb8d2cb15e18a6adcf7497.svg",
     "static/media/superStock.svg": "/static/media/superStock.e0899b66af9fd46bf6a3033b81eda173.svg",
-    "main.585035d6.css.map": "/static/css/main.585035d6.css.map",
-    "main.2debfc58.js.map": "/static/js/main.2debfc58.js.map",
+    "main.5c4134c7.css.map": "/static/css/main.5c4134c7.css.map",
+    "main.9acb5772.js.map": "/static/js/main.9acb5772.js.map",
     "787.1a12ad17.chunk.js.map": "/static/js/787.1a12ad17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.585035d6.css",
-    "static/js/main.2debfc58.js"
+    "static/css/main.5c4134c7.css",
+    "static/js/main.9acb5772.js"
   ]
 }
