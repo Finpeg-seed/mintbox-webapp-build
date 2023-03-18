@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.881243f6.css",
-    "main.js": "/static/js/main.21d24377.js",
+    "main.css": "/static/css/main.1c3886de.css",
+    "main.js": "/static/js/main.b89224ec.js",
     "static/js/787.1a12ad17.chunk.js": "/static/js/787.1a12ad17.chunk.js",
     "static/media/uicons-regular-rounded-BG3GDTFR.eot": "/static/media/uicons-regular-rounded-BG3GDTFR.2a361185de096a6e3e99.eot",
     "static/media/uicons-bold-rounded-ZDARGU7R.eot": "/static/media/uicons-bold-rounded-ZDARGU7R.ac2c608bf183bb6b3390.eot",
@@ -17,7 +17,6 @@
     "static/media/uicons-regular-straight-NEQD4Y5Q.woff": "/static/media/uicons-regular-straight-NEQD4Y5Q.966e1e1972c9e8cf7a97.woff",
     "static/media/uicons-bold-rounded-YL3LKNDW.woff2": "/static/media/uicons-bold-rounded-YL3LKNDW.094c69c0b8ba7739e058.woff2",
     "static/media/alpha.svg": "/static/media/alpha.82ac69864435656cf5d257dfc9060356.svg",
-    "static/media/kb.svg": "/static/media/kb.d8c5f21c60b8b53b61ec1ed129a4adc1.svg",
     "static/media/uicons-bold-straight-MAKDQRMI.woff": "/static/media/uicons-bold-straight-MAKDQRMI.cafb87f71d0eb3b9240f.woff",
     "static/media/uicons-solid-rounded-WBSH5E5L.woff2": "/static/media/uicons-solid-rounded-WBSH5E5L.653859786d3f3c0c5383.woff2",
     "static/media/uicons-solid-straight-IZQLN5ZC.woff": "/static/media/uicons-solid-straight-IZQLN5ZC.72196561b9ec276f7f74.woff",
@@ -30,6 +29,7 @@
     "static/media/uicons-brands-QJAQFSP2.woff2": "/static/media/uicons-brands-QJAQFSP2.5f6b6a7ae0003bd6fe89.woff2",
     "static/media/image 2.svg": "/static/media/image 2.df3cf80d2086b2bceb50a86e4d95e512.svg",
     "static/media/no-invest.webp": "/static/media/no-invest.b15135d924920152bf99.webp",
+    "static/media/kb2.svg": "/static/media/kb2.7cfb6102bace38844ecfb67f0ade3e1b.svg",
     "static/media/sharpely-nameicon-dark.svg": "/static/media/sharpely-nameicon-dark.dfcaa064ecbd0003a382542cd69243fb.svg",
     "static/media/sharpely-nameicon-white.svg": "/static/media/sharpely-nameicon-white.96789bb2243ebad069b7a8594a17b7b3.svg",
     "static/media/FactSet_Logo_CMYK_Cyan-1024x199 1.svg": "/static/media/FactSet_Logo_CMYK_Cyan-1024x199 1.ee8f41015bd7ccf1a09a6984519a18fe.svg",
@@ -49,12 +49,12 @@
     "index.html": "/index.html",
     "static/media/turnAround.svg": "/static/media/turnAround.554d1278bccb8d2cb15e18a6adcf7497.svg",
     "static/media/superStock.svg": "/static/media/superStock.e0899b66af9fd46bf6a3033b81eda173.svg",
-    "main.881243f6.css.map": "/static/css/main.881243f6.css.map",
-    "main.21d24377.js.map": "/static/js/main.21d24377.js.map",
+    "main.1c3886de.css.map": "/static/css/main.1c3886de.css.map",
+    "main.b89224ec.js.map": "/static/js/main.b89224ec.js.map",
     "787.1a12ad17.chunk.js.map": "/static/js/787.1a12ad17.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.881243f6.css",
-    "static/js/main.21d24377.js"
+    "static/css/main.1c3886de.css",
+    "static/js/main.b89224ec.js"
   ]
 }
